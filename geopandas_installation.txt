@@ -1,0 +1,7 @@
+
+install dependencies
+conda install pandas fiona shapely pyproj rtree
+conda install descartes
+
+conda install geopandas
+
